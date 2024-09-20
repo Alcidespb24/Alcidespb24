@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alcides Pérez
+# 👋 Hi, I'm Alcides Perez
 
 I am a **Computer Engineer** from **Miami, Florida**, currently pursuing my Master's in Computer Science with a concentration in Data Science and Artificial Intelligence at **FIU**. I have a deep passion for developing AI-driven solutions, algorithmic trading models, and working on real-world applications in various industries like healthcare and finance. I focus on solving complex problems through software engineering, data analysis, and automation.
 

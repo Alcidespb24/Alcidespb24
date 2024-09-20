@@ -17,7 +17,7 @@ I am a **Computer Engineer** from **Miami, Florida**, currently pursuing my Mast
 - ### 📈 GitHub Highlights
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcidespb24&layout=compact&theme=dark)
 
-![Alcidespb24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=dark&hide=issues,prs&count_private=true&include_all_commits=true))
+![Alcidespb24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=dark&hide=issues,prs&count_private=true&include_all_commits=true)
 
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alcides-perez-45015a157/)

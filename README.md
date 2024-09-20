@@ -13,10 +13,12 @@ I am a **Computer Engineer** from **Miami, Florida**, currently pursuing my Mast
 - **Languages**: Python, Java, C, JavaScript, HTML, CSS
 - **Technologies**: Docker, Vivado, Verilog, Arduino, TI, Hardware Systems
 - **Specialties**: Web Development, Data Structures, Algorithms, Machine Learning, Data Visualization, Electronics, Signal Processing
+- 
+- ### 📈 GitHub Highlights
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcidespb24&layout=compact&theme=dark)
 
-### 📈 GitHub Stats
-### 📈 GitHub Stats
-![Alcidespb24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Alcidespb24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=dark&hide=issues,prs&count_private=true&include_all_commits=true)
+)
 
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alcides-perez-45015a157/)

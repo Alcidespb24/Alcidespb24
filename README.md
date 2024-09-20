@@ -15,7 +15,8 @@ I am a **Computer Engineer** from **Miami, Florida**, currently pursuing my Mast
 - **Specialties**: Web Development, Data Structures, Algorithms, Machine Learning, Data Visualization, Electronics, Signal Processing
 
 ### 📈 GitHub Stats
-![Alcidespb24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=dark)
+### 📈 GitHub Stats
+![Alcidespb24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alcides-perez-45015a157/)

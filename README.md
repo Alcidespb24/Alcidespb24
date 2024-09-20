@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alain De Armas
 
-I am a **Machine Learning & AI Research Assistant** at **FIU**, currently pursuing my Master's in Computer Science (AI/ML focus). Passionate about developing innovative software solutions, automating workflows, and diving deep into data-driven insights.
+I am a **Computer Engineer** from **FIU**, currently pursuing my Master's in Computer Science (AI/ML focus). Passionate about developing innovative software solutions, automating workflows, and diving deep into data-driven insights.
 
 ### 🚀 Projects
 - 🔧 **[Company Report Statistics Extractor](https://github.com/Alcidespb24/Company-Report-Statistics-Extractor)**: Automates proxy report extraction using Python.

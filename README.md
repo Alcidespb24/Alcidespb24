@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Alcides Perez**
 
-I’m a **Computer Engineer** from **Miami, Florida**, now finishing an M.S. in Computer Science (Data Science & AI) at **Florida International University**. Over the last five months I’ve doubled‑down on **production‑ready, AI‑powered software** in healthcare, finance, and media—from retrieval‑augmented pipelines that price hospital accounts in seconds to a Flutter social network for movie buffs. I’m happiest shipping tools that turn messy real‑world data into crisp, automated workflows.
+I’m a **Computer Engineer** from **Miami, Florida**, now finishing an M.S. in Computer Science (Data Science & AI) at **Florida International University**. I’ve doubled‑down on **production‑ready, AI‑powered software** in healthcare, finance, and media—from retrieval‑augmented pipelines that price hospital accounts in seconds to a Flutter social network for movie buffs. I’m happiest shipping tools that turn messy real‑world data into crisp, automated workflows.
 
 ---
 

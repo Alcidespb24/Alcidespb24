@@ -26,11 +26,11 @@ I specialize in **LLM applications, RAG pipelines, full-stack development, and c
 
 | | Project | Stack | Highlight |
 |---|---------|-------|-----------|
-| 🎬 | **[Critical – Movie Social Network](https://github.com/Alcidespb24/Critical)** | Flutter · Riverpod · Firebase · TMDB API | Real-time feeds, follow graph, 0-10 ratings with color-coded UI and GoRouter navigation |
-| 📈 | **[Stock Sentiment Analyzer](https://github.com/Alcidespb24/stock-sentiment)** | Python · TensorFlow · Keras · GloVe | CNN-BiLSTM model achieving 87% AUC; end-to-end ML pipeline with web scraping |
+| 🎬 | **[Critical – Movie Social Network](https://github.com/Alcidespb24/flutter-application)** | Flutter · Riverpod · Firebase · TMDB API | Real-time feeds, follow graph, 0-10 ratings with color-coded UI and GoRouter navigation |
+| 📈 | **[Stock Sentiment Analyzer](https://github.com/Alcidespb24/Sentiment-Analysis)** | Python · TensorFlow · Keras · GloVe | CNN-BiLSTM model achieving 87% AUC; end-to-end ML pipeline with web scraping |
 | 🏥 | **[HIPAA RAG System](https://github.com/Alcidespb24/hipaa-rag)** | Python · GPT-5 · LlamaIndex · OpenAI Embeddings | RAG pipeline for HIPAA compliance queries; 92% accuracy with optimized chunking |
 | 📄 | **[PDF Intelligence Toolkit](https://github.com/Alcidespb24/pdf-toolkit)** | Python · LlamaParse · FastAPI | Converts structured & scanned PDFs to markdown/JSON with retrieval endpoints |
-| 🤖 | **[Automated Trading Bot](https://github.com/Alcidespb24/bot)** | Python · CCXT · Docker · Plotly Dash | Crypto trading with adaptive stop-loss, live dashboard, multi-process workers |
+| 🤖 | **[Automated Trading Bot](https://github.com/Alcidespb24/BTC_Bot)** | Python · CCXT · Docker · Plotly Dash | Crypto trading with adaptive stop-loss, live dashboard, multi-process workers |
 
 ---
 

@@ -1,73 +1,69 @@
-# 👋 Hi, I'm **Alcides Perez**
+# Hi, I'm Alcides Perez
 
-**Software Engineer** from **Miami, Florida** building intelligent systems that turn messy, unstructured data into automated workflows. Currently finishing my M.S. in Computer Science (AI & Software Engineering) at **Florida International University** while shipping production AI tools in healthcare and enterprise search.
+M.S. Computer Science student at Florida International University building AI systems for noisy, real-world data.
 
-I specialize in **LLM applications, RAG pipelines, full-stack development, and cloud infrastructure**.
+My work has focused on healthcare document intelligence, retrieval and evaluation pipelines, backend infrastructure, and workflow automation. I build systems around unstructured PDFs, search pipelines, real-time processing, and ML-assisted applications with an emphasis on reliability, traceability, and measurable behavior.
 
----
-
-### 💼 Professional Experience (2025)
-
-* **Healthcare Retroactive Audits** — Built AI-powered contract processing suite using **LlamaIndex, GPT-5, FastAPI**: document extractors, claim pricing engine, and contract management system that reduced analyst time by **60%**.
-
-* **Sinala Corp** — Architected enterprise parts search platform with **FastAPI, PyQt5, Google Cloud Run**: designed noun-noun modifier extraction algorithm achieving **90% match accuracy** across 10K+ daily searches.
+I am particularly interested in multimodal learning, real-world AI systems, and engineering environments where models have to operate under practical constraints rather than benchmark-only settings.
 
 ---
 
-### 🚀 Current Side Projects
+## Experience
 
-* **Critical:** Social movie review app in **Flutter / Riverpod / Firebase** — cinephiles follow critics, post reviews, and browse TMDB data with real-time Firestore streams.
+### Healthcare Retroactive Audits
+Built AI-assisted contract processing and pricing workflows using Python, FastAPI, LlamaIndex, and OpenAI APIs. Worked on document extraction pipelines, pricing logic, and contract-management tooling that reduced analyst workload and improved throughput.
 
-* **HIPAA RAG System:** Compliance query pipeline with **GPT-5, LlamaIndex** — 92% accuracy on ground truth evaluation set.
-
----
-
-### 🔥 Featured Projects
-
-| | Project | Stack | Highlight |
-|---|---------|-------|-----------|
-| 🎬 | **[Critical – Movie Social Network](https://github.com/Alcidespb24/flutter-application)** | Flutter · Riverpod · Firebase · TMDB API | Real-time feeds, follow graph, 0-10 ratings with color-coded UI and GoRouter navigation |
-| 📈 | **[Stock Sentiment Analyzer](https://github.com/Alcidespb24/Sentiment-Analysis)** | Python · TensorFlow · Keras · GloVe | CNN-BiLSTM model achieving 87% AUC; end-to-end ML pipeline with web scraping |
-| 🏥 | **[HIPAA RAG System](https://github.com/Alcidespb24/RAG)** | Python · GPT-5 · LlamaIndex · OpenAI Embeddings | RAG pipeline for HIPAA compliance queries; 92% accuracy with optimized chunking |
-| 📄 | **[PDF Intelligence Toolkit](https://github.com/Alcidespb24/pdf-toolkit)** | Python · LlamaParse · FastAPI | Converts structured & scanned PDFs to markdown/JSON with retrieval endpoints |
-| 🤖 | **[Automated Trading Bot](https://github.com/Alcidespb24/BTC_Bot)** | Python · CCXT · Docker · Plotly Dash | Crypto trading with adaptive stop-loss, live dashboard, multi-process workers |
+### Sinala Corp
+Built enterprise search and retrieval tooling for parts discovery using FastAPI, PyQt5, and Google Cloud. Designed language-processing components for query understanding and matching across high-volume search traffic.
 
 ---
 
-### 🛠️ Tech Stack
+## Selected Projects
 
-```
-Languages        Python · TypeScript · JavaScript · SQL · C · C# · Dart
-Backend          FastAPI · Node.js · ASP.NET · Celery · REST APIs
-Frontend         React · Flutter · PyQt5 · Streamlit · Tailwind CSS
-ML / AI          LlamaIndex · OpenAI API · TensorFlow · Keras · FAISS · RAG · Pandas
-Cloud            GCP (Cloud Run, Cloud SQL) · AWS (RDS, ECS) · Firebase · Docker
-Databases        PostgreSQL · SQL Server · MySQL · Redis · Firestore
-DevOps           GitHub Actions · CI/CD · PyInstaller
-Embedded         Arduino · ESP32 · Verilog · Vivado
-```
+### [podcast-workflow](https://github.com/Alcidespb24/podcast-workflow)
+Production-style automation pipeline that converts markdown knowledge notes into multi-speaker podcast episodes with TTS, RSS publishing, retries, and a FastAPI management dashboard.
 
----
+### [HIPAA RAG Evaluation](https://github.com/Alcidespb24/RAG)
+Evaluation-focused retrieval-augmented generation project for HIPAA question answering, centered on chunking strategy, retrieval quality, and answer fidelity over regulatory text.
 
-### 📊 GitHub Stats
+### [Stock Sentiment ML](https://github.com/Alcidespb24/Sentiment-Analysis)
+Deep learning pipeline for sentiment classification on financial text using preprocessing, embeddings, hybrid sequence modeling, and evaluation artifacts.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alcidespb24&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcidespb24&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%"/>
-</p>
+### [Real-Time Vital Sign Monitor](https://github.com/Alcidespb24/latest_ver_vital_signs)
+Real-time monitoring application for ingesting signal data, running ML inference, and updating a live desktop interface.
+
+### [Critical – Movie Social Network](https://github.com/Alcidespb24/flutter-application)
+Flutter-based social review platform with Firebase-backed flows, real-time updates, and multi-screen mobile product architecture.
 
 ---
 
-### 📫 Let's Connect
+## Technical Focus
 
-[![Email](https://img.shields.io/badge/Email-apere964%40fiu.edu-red?style=flat-square&logo=gmail)](mailto:apere964@fiu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alcides%20Perez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alcidespb24)
-[![GitHub](https://img.shields.io/badge/GitHub-Alcidespb24-181717?style=flat-square&logo=github)](https://github.com/Alcidespb24)
+**Languages**  
+Python, Dart, TypeScript, JavaScript, SQL, C, C#
+
+**Backend**  
+FastAPI, REST APIs, ETL pipelines, background workflows, cloud services
+
+**ML / AI**  
+LLM applications, RAG, embeddings, TensorFlow, Keras, evaluation pipelines, data preprocessing
+
+**Frontend / App**  
+Flutter, Riverpod, Firebase, React, PyQt
+
+**Cloud / Infra**  
+Docker, Google Cloud, Firebase, CI/CD
+
+**Data**  
+PostgreSQL, SQL Server, MySQL, Firestore, Pandas
+
+**Embedded / Systems**  
+Arduino, ESP32, Verilog, real-time and signal-oriented applications
 
 ---
 
-<div align="center">
-  <i>Building AI systems that solve real problems.</i>
-  <br><br>
-  ⭐ Star a repo if you find it useful!
-</div>
+## Current Direction
+
+I am moving deeper into systems that combine unstructured or sensor-derived data, measurable model behavior, and operational reliability.
+
+That is the common thread across the work on this profile.
